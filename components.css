@@ -1,0 +1,106 @@
+.nav {
+background-color: #6200EA;
+  width: 100vw;
+}
+
+
+.btn-1 {
+  
+  height: 80px;
+  background-color: #6200EA;
+  color: #F4F3F5;
+font: normal normal bold 12px/15px Montserrat;
+letter-spacing: 2.4px;
+  width: 100%;
+}
+
+
+.container-fluid {
+  background: #F4F3F5 0% 0% no-repeat;
+  background-size: cover;
+}
+
+.background-1 {
+  background: #FFFFFF 0% 0% no-repeat;
+  background-size: cover;
+  height: 640px;
+}
+
+.map {
+  padding: 60px;
+}
+
+.font-1 {
+  font: normal normal bold 12px/15px Montserrat;
+letter-spacing: 2.4px;
+color: #6200EA;
+text-transform: uppercase;
+opacity: 1;
+  padding-left: 60px;
+  padding-bottom: 15px;
+  padding-top: 15px;
+}
+
+.font-2 {
+  font: normal normal normal 14px/20px Montserrat;
+letter-spacing: 0px;
+color: #211138;
+opacity: 1;
+  padding-left: 60px;
+  padding-right: 60px;
+}
+
+.font-3 {
+  font: normal normal bold 40px/50px Montserrat;
+letter-spacing: 0px;
+color: #211138;
+opacity: 1;
+  padding-top: 60px;
+  padding-left: 60px;
+  padding-right: 60px;
+  padding-bottom: 10px;
+}
+
+.font-4 {
+  font: normal normal bold 14px/18px Montserrat;
+letter-spacing: 0px;
+color: #211138;
+opacity: 0.25;
+}
+
+.btn-2 {
+  width: 100%;
+  background-color: #6200EA;
+  color: #FFFFFF;
+  font: normal normal bold 12px/15px Montserrat;
+letter-spacing: 2.4px;
+color: #FFFFFF;
+text-transform: uppercase;
+opacity: 1;
+  height: 60px;
+  border-radius: 24px;
+  margin-top: 15px;
+}
+
+.footer {
+
+  background-color: #211138;
+  height: 100px;
+  ont: normal normal bold 12px/15px Montserrat;
+letter-spacing: 2.4px;
+text-transform: uppercase;
+opacity: 1;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
